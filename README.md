@@ -11,7 +11,7 @@ Easy to use methods to store/retrieve objects into tables using local storage
      // do stuff
     }
 
-## Check if a table exisits
+## Check if a table exists
 
     if(storage.checkTableExists("test"))
     {
