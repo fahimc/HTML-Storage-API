@@ -45,7 +45,7 @@ Easy to use methods to store/retrieve objects into tables using local storage
 
     storage.clearDatabase();
 
-## check if database is Full
+## Check if database is Full
     
     function onError(event)
     {
